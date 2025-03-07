@@ -8,7 +8,7 @@
 
 
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Rokastet&theme=highcontrast&border_radius=4.9)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Rokastet&theme=telegram&hide_border=true&border_radius=5&short_numbers=true&hide_longest_streak=true)](https://git.io/streak-stats)
 
 <!--
 **Rokastet/Rokastet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
