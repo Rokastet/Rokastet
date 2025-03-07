@@ -5,6 +5,7 @@
 <div id="badges" align="center">
   <img src="https://img.shields.io/badge/https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkonstantsin-romanov-10b163355%2F?style=for-the-badge&label=Linkedin&labelColor=%23B0E0E6&color=%2300BFFF" alt="LinkedIn Badge"/>
 </div>
+
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
 
 <!--
