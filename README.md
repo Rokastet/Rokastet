@@ -2,6 +2,12 @@
 <div id="header" align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExODFyMnBpZXNzMmo3d2tubXF5dmd0ZHh4Mmt5MGN5Nmt6aTRteTNhOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="100"/>
 </div>
+![Static Badge](https://img.shields.io/badge/https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkonstantsin-romanov-10b163355%2F?style=for-the-badge&label=Linkedin&labelColor=%23B0E0E6&color=%2300BFFF)
+<div id="badges">
+  <img src="[https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkonstantsin-romanov-10b163355%2F?style=for-the-badge&label=Linkedin&labelColor=%23B0E0E6&color=%2300BFFF)" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+</div>
 
 <!--
 **Rokastet/Rokastet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
