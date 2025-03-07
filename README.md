@@ -1,4 +1,7 @@
 ## Hi there 👋
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif?cid=ecf05e47mku7qs6o9p0rcjrhna9dcua5irros6drvxp35lmf&ep=v1_gifs_related&rid=giphy.gif&ct=g)" width="100"/>
+</div>
 
 <!--
 **Rokastet/Rokastet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
