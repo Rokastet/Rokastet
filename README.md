@@ -7,7 +7,7 @@
 </div>
 
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
+![](https://komarev.com/ghpvc/?username=Rokastet&color=blue)
 [![GitHub Streak](https://streak-stats.demolab.com?user=Rokastet&theme=telegram&hide_border=true&border_radius=5&short_numbers=true&hide_longest_streak=true)](https://git.io/streak-stats)
 
 <!--
