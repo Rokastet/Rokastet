@@ -17,7 +17,9 @@
 ********* 
 ### 👨‍💻 About me
 I am studying frontend/backend web development
+
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWg4bWZ3eHdwenVrd2hwbGo5dzhjODNzZm5xaHhvdm81ZWJ0YXA3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif">
+
 - 👨‍🎓I'm **student** of technical univetsity, third year (BSUIR).
 - 🥅 My goals is improve my technical skils.
 - 📝 My English level is **B1** *(Intermediate)*
