@@ -10,10 +10,15 @@
 ![](https://komarev.com/ghpvc/?username=Rokastet&color=blue)
 [![GitHub Streak](https://streak-stats.demolab.com?user=Rokastet&theme=telegram&hide_border=true&border_radius=5&short_numbers=true&hide_longest_streak=true)](https://git.io/streak-stats)
 
-## Hi there 👋
+## Welcome to my profile👋
 <div align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTN6ZXk0NThmN2IxdjJzcHF3NWtkcXM2Z2llMW8xczJldWR4bHU2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif" width="600" height="300"/>
 </div>
+
+====
+### 👨‍💻 About me
+![I am a student studying frontend/backend development](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWg4bWZ3eHdwenVrd2hwbGo5dzhjODNzZm5xaHhvdm81ZWJ0YXA3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif)
+
 
 <!--
 **Rokastet/Rokastet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
