@@ -30,7 +30,7 @@ I am studying frontend/backend web development
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"  width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"  width="40" height="40"/>&nbsp;
-<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" width="40" height="40 alt="external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo"/>
+<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" width="40" height="40"/>&nbsp;
 
 ### 📊 My stats:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiRokastet=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
