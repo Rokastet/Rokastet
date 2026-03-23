@@ -33,7 +33,9 @@ I am studying frontend/backend web development
 <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" width="40" height="40"/>&nbsp;
 
 ### 📊 My stats:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiRokastet=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Rokastet&theme=telegram&hide_border=true&border_radius=5&short_numbers=true&hide_longest_streak=true)](https://git.io/streak-stats)
 
